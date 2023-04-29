@@ -1,4 +1,4 @@
-# This is Flappy Bird... but in another world.
+# This is Flappy Bird... but in another world
 
 ![Flappy Bird Demo (short ver)](https://user-images.githubusercontent.com/120136659/235280290-d74fc22e-ac42-4300-b93a-5d2936c1d789.gif)
 
@@ -11,5 +11,5 @@ Thank you for visiting!
 
 --------
 Special thanks to...
-1. Game Maker's Toolkit for his amazing video. This Flappy Bird game is an expansion of his Flarpy Blorb.
+1. Game Maker's Toolkit. This Flappy Bird game is an expansion of his Flarpy Blorb.
 2. <a href="https://www.freepik.com/free-vector/mars-landscape-alien-planet-desert-background_28877272.htm#query=vector%20game%20background&position=7&from_view=search&track=robertav1_2_sidr">upklyak's artwork</a> on Freepik
