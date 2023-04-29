@@ -8,3 +8,8 @@ Just like the traditional Flappy Bird, you help the bird fly through the pipes s
 Missiles are spawn at random rate for each game. Let see if you can achieve a high score with this new challenge.
 
 Thank you for visiting!
+
+--------
+Special thanks to...
+1. Game Maker's Toolkit for his amazing video. This Flappy Bird game is an expansion of his Flarpy Blorb.
+2. <a href="https://www.freepik.com/free-vector/mars-landscape-alien-planet-desert-background_28877272.htm#query=vector%20game%20background&position=7&from_view=search&track=robertav1_2_sidr">upklyak's artwork</a> on Freepik
